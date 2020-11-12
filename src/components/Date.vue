@@ -18,7 +18,7 @@
 <script>
 
     export default {
-        name: 'TextBox',
+        name: 'Date',
         props: {
             data: {
                 type: Object,
